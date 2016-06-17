@@ -1,0 +1,52 @@
+body {
+    min-width: inherit
+}
+
+.main-service {
+    padding: 0 5%;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 30px;
+    font-family: Calibri, SimSun, serif
+}
+
+.main-service h2 {
+    font-size: 36px;
+    text-align: center;
+    font-family: 'Times New Roman', KaiTi, sans-serif;
+    line-height: 50px
+}
+
+.main-service p {
+    margin: 5px 0
+}
+
+.main-service ol ul, .main-service ul ol, .main-service ul ul, .main-service ol ol {
+    margin-left: 1em
+}
+
+.main-service .title {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 36px
+}
+
+.main-service .all-list {
+    padding: 10px 0 40px
+}
+
+.main-service .all-list p {
+    margin-left: 2em
+}
+
+.main-service li {
+    margin: 20px 0
+}
+
+.main-service .mb15 {
+    margin-bottom: 15px
+}
+
+.main-service .mb30 {
+    margin-bottom: 30px
+}
